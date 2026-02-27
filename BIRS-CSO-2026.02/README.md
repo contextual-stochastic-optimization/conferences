@@ -16,6 +16,6 @@ Organizers:
 ## Images
 <img src="images/BIRS.jpeg" alt="Banff International Research Station" width="600">
 
-<img src="images/LilyXu.jpeg" alt="Banff International Research Station" width="600">
+<img src="images/LilyXu.jpeg" alt="Lily Xu" width="600">
 
-<img src="images/Pierre-LucBacon.jpeg" alt="Banff International Research Station" width="600">
+<img src="images/Pierre-LucBacon.jpeg" alt="Pierre-Luc Bacon" width="600">
